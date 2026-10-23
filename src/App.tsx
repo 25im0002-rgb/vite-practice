@@ -9,7 +9,7 @@ function App() {
       alignItems: "center",
       fontSize: "40px"
     }}>
-      こんにちは
+      こんにちは！Webサイトを更新しました！
     </div>
   )
 }
